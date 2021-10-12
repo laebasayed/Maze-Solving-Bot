@@ -16,7 +16,7 @@ xargs sudo apt install < ros_requirements.txt
 - Launch File
  `teleop.launch` to launch all ROS Controllers along with Gazebo.
 
-5. Run the required python code in the terminal specifying the correct path
+5. Run the required python code in the terminal specifying the correct path.
 
 ## Result
 
