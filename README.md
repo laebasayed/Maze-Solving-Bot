@@ -4,7 +4,7 @@ Simulation of a Robot using Robot Operating System (ROS) for solving a simply co
  ## Requirements
 1. ROS, Gazebo,Sahayak(Robot)
 2. Clone the repository 
-4. Run the following commands in the terminal :
+3. Run the following commands in the terminal :
 
 ``` shell
 pip install -r requirement.txt
@@ -16,7 +16,7 @@ xargs sudo apt install < ros_requirements.txt
 - Launch command
  `teleop.launch` to launch all ROS Controllers along with Gazebo.
 
-5. Run the required python code in the terminal specifying the correct path.
+4. Run the required python code in the terminal specifying the correct path.
 
 ## Result
 
