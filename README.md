@@ -18,6 +18,3 @@ xargs sudo apt install < ros_requirements.txt
 
 4. Run the required python code in the terminal specifying the correct path.
 
-## Result
-
-![Maze](https://user-images.githubusercontent.com/92040573/137008283-002aea1f-c8b8-44fa-a882-d41d45b32c58.gif)
